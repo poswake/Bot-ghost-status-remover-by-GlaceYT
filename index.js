@@ -38,7 +38,7 @@ app.listen(port, () => {
 });
 
 const statusMessages = ["👀 Watching The Choas Coalition" , "🎊 GLORYY"];
-const statusTypes = [ 'dnd', 'idle'];
+const statusTypes = [ 'dnd', 'dnd'];
 let currentStatusIndex = 0;
 let currentTypeIndex = 0;
 
