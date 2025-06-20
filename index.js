@@ -30,7 +30,7 @@ if (fs.existsSync(pointsFile)) {
 }
 
 // Bot status messages
-const statusMessages = ["👀 Watching The Chaos Coalition", "🎊 GLORYY"];
+const statusMessages = ["👀 Watching ERF", "🎮 Playing Roblox"];
 const botStatus = 'dnd';
 let currentStatusIndex = 0;
 
